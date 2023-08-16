@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 112px;
-    width: 415px;
+    width: 30%;
     background-color: hsl(0deg 0% 7.06%);
     color: hsl(0deg 0% 69.41%);
     justify-content: center;
@@ -67,7 +67,7 @@ body {
 }
 
 .left-side-2 {
-    width: 415px;
+    width: 30.4%;
     max-height: 470px;
     overflow: auto;
     background-color: hsl(0deg 0% 7.06%);
